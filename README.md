@@ -1,6 +1,7 @@
 Jungle Run
 ==============================
 
+![jungle-run](https://cloud.githubusercontent.com/assets/12101394/12968012/35042f9e-d04b-11e5-803f-caa85a31c11a.gif)
 
 #### This is a  plattform game for iOS developed with Cocos2D.
 
